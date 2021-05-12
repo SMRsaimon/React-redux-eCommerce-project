@@ -20,7 +20,7 @@ const Main = () => {
             ))}
           </div>
           <div className="order-summary">
-            <h1>hello</h1>
+            <h1>Offer Product</h1>
           </div>
         </div>
       </div>
