@@ -1,4 +1,4 @@
-# Getting start with my ecommerce Project.
+# Getting start with my ecommerce Project( under development )
 
 ## Technology Using 
-### React, Redux, Node, Express, MongoDB, Firebase, Strip.js, 
+### React, React Router,  Redux, Redux-saga,  Node, Express, MongoDB, Firebase, Strip.js, 
