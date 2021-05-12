@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Navigation from './components/Navigation/Navigation';
 import {
@@ -8,14 +8,16 @@ import {
   
 } from "react-router-dom";
 
+import Main from './components/Main/Main';
 
 function App() {
+ 
   return (
     <Router>
       <Switch>
         <Route exact path="/">
         <Navigation/>
-
+        <Main/>      
         </Route>
       </Switch>
     </Router>

@@ -72,8 +72,6 @@ const Navigation = () => {
           <label for="menu-btn" class="btn menu-btn"><HiOutlineMenuAlt1/></label>
         </div>
         </nav>
-      
-  
     )
 };
 
